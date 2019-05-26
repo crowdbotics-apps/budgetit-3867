@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT budgetit_3867.wsgi:application
